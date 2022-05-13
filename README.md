@@ -19,12 +19,12 @@ You can learn more about Take Over mode [here](https://github.com/johnsoncodehk/
 
 Run `yarn electron:dev` to work with electron in development mode.
 ```bash
-yarn electron:dev
+npm run electron:dev
 ```
 
 Run `yarn app:build` to build your electron app.
 ```bash
-yarn app:build
+npm run app:build
 ```
 
 Run `yarn dev` to open vite in browser in development mode.
