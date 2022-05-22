@@ -4,7 +4,7 @@ This template should help get you started developing with Vue 3 and TypeScript i
 
 ## Recommended IDE Setup
 
-- [VS Code](https://code.visualstudio.com/) + [Volar](https://marketplace.visualstudio.com/items?itemName=johnsoncodehk.volar)
+-   [VS Code](https://code.visualstudio.com/) + [Volar](https://marketplace.visualstudio.com/items?itemName=johnsoncodehk.volar)
 
 ## Type Support For `.vue` Imports in TS
 
@@ -17,20 +17,26 @@ You can learn more about Take Over mode [here](https://github.com/johnsoncodehk/
 
 # Scripts
 
-Run `yarn electron:dev` to work with electron in development mode.
+Run `pnpm electron:dev` to work with electron in development mode.
+
 ```bash
 npm run electron:dev
 ```
 
-Run `yarn app:build` to build your electron app.
+Run `pnpm app:build` to build your electron app.
+
 ```bash
 npm run app:build
 ```
 
-Run `yarn dev` to open vite in browser in development mode.
+Run `pnpm dev` to open vite in browser in development mode.
+
 ```bash
-yarn dev
+pnpm dev
 ```
-Run `yarn build` to build files and can be served.
+
+Run `pnpm build` to build files and can be served.
+
 ```bash
 yarn build
+```

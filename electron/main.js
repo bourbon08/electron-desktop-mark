@@ -66,7 +66,6 @@ function createWindow() {
         win2.loadFile("./dist/index.html")
         win3.loadFile("./dist/index.html")
     }
-    
 }
 
 // 这段程序将会在 Electron 结束初始化
